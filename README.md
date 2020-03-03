@@ -2,3 +2,5 @@
 Un jeux du serpent à améliorer réalisé en javascript
 
 Première réalisation avec javascript
+
+test de modification depuis GitHub
